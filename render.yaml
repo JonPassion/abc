@@ -1,5 +1,4 @@
 services:
-  # Django Web Service
   - type: web
     name: dating-app
     env: python
